@@ -1,0 +1,6 @@
+1637534154774	geckodriver	INFO	Listening on 127.0.0.1:59996
+1637534157846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59997" "-no-remote" "-profile" "C:\\Users\\dmell\\AppData\\Local\\Temp\\rust_mozprofileqv6b9v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:59997/devtools/browser/bf639a0e-6cf8-462b-823d-4dbca9bc93e1
+1637534159779	Marionette	INFO	Listening on port 60005
+1637534159929	Marionette	WARN	TLS certificate errors will be ignored for this session
